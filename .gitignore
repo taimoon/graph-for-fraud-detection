@@ -1,0 +1,10 @@
+*\__pycache__
+.env
+reference
+data
+results
+model_checkpoint
+*.zip
+*\ipynb_checkpoints
+ignore
+save_results
