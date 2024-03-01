@@ -1,3 +1,6 @@
+# About
+The final year project implements Variational Graph Autoencoder (VGAE) that reconstruct the connectivity of graph but also including node features. The reconstructed output is tested against 3 graph-based fraud classifier compared with original data.
+
 # To Run Fraud_detection_GAT on Colab
 - Create `MyDrive/data science project/` in your google drive
 
